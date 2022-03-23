@@ -1,0 +1,16 @@
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.csproj.AssemblyReference.cache
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.AssemblyInfoInputs.cache
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.AssemblyInfo.cs
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.csproj.CoreCompileInputs.cache
+C:\Users\72vla\source\repos\pikagame\bin\Debug\net5.0\pikagame.exe
+C:\Users\72vla\source\repos\pikagame\bin\Debug\net5.0\pikagame.deps.json
+C:\Users\72vla\source\repos\pikagame\bin\Debug\net5.0\pikagame.runtimeconfig.json
+C:\Users\72vla\source\repos\pikagame\bin\Debug\net5.0\pikagame.runtimeconfig.dev.json
+C:\Users\72vla\source\repos\pikagame\bin\Debug\net5.0\pikagame.dll
+C:\Users\72vla\source\repos\pikagame\bin\Debug\net5.0\ref\pikagame.dll
+C:\Users\72vla\source\repos\pikagame\bin\Debug\net5.0\pikagame.pdb
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.dll
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\ref\pikagame.dll
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.pdb
+C:\Users\72vla\source\repos\pikagame\obj\Debug\net5.0\pikagame.genruntimeconfig.cache

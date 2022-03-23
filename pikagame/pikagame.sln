@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pikagame", "pikagame.csproj", "{C28F5247-F085-4232-8A3E-D9AAD5675907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28F5247-F085-4232-8A3E-D9AAD5675907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28F5247-F085-4232-8A3E-D9AAD5675907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28F5247-F085-4232-8A3E-D9AAD5675907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28F5247-F085-4232-8A3E-D9AAD5675907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DD7ABC-55CB-44C2-A87F-CC2E0EE68502}
+	EndGlobalSection
+EndGlobal
